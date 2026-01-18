@@ -126,7 +126,7 @@ Liquids indicate their level with their metadata. Generally, the further away th
 All wood or tree-related blocks have related values and behaviors.
 
 ### Saplings
-Logs have 3 distinct values.
+Saplings have 3 distinct values.
 
 | Value | Color |
 | --- | --- |
